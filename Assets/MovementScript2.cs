@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovementScript : MonoBehaviour
+public class MovementScript2 : MonoBehaviour
 {
-    
     Vector3 ogposition;
 
     // Start is called before the first frame update
@@ -19,7 +18,7 @@ public class MovementScript : MonoBehaviour
     }
 
     //movement speed in units per second
-    private float movementSpeed = 240f;
+    private float movementSpeed = 360f;
 
     // Update is called once per frame
     void Update()
@@ -34,7 +33,7 @@ public class MovementScript : MonoBehaviour
         //If object travels a certain distance, teleport back to original position
         if (transform.position.z >= 222)
         {
-            transform.position = new Vector3 (443,-200,26);
+            transform.position = new Vector3 (462,-201,28);
         }
 
         //update the position

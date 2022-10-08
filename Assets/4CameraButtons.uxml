@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement style="height: 116px;">
+        <ui:Button text="FirstPerCam" display-tooltip-when-elided="true" name="CameraButton2" />
+        <ui:Button text="ThirdPerCam" display-tooltip-when-elided="true" name="CameraButton3" />
+        <ui:Button text="MoveCam" display-tooltip-when-elided="true" name="CameraButton4" />
+        <ui:Button text="OrthoCam" display-tooltip-when-elided="true" name="CameraButton1" />
+    </ui:VisualElement>
+</ui:UXML>
