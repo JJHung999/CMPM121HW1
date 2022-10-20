@@ -31,7 +31,7 @@ public class Movement3Script : MonoBehaviour
         //Input.GetAxis("Vertical")
 
         //If object travels a certain distance, teleport back to original position
-        if (transform.position.z >= 222)
+        if (transform.position.z >= 282)
         {
             transform.position = new Vector3 (470,-191,47);
         }
