@@ -33,7 +33,7 @@ public class MovementScript2 : MonoBehaviour
         //If object travels a certain distance, teleport back to original position
         if (transform.position.z >= 282)
         {
-            transform.position = new Vector3 (462,-201,28);
+            transform.position = new Vector3 (514,-202,28);
         }
 
         //update the position
