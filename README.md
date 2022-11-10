@@ -45,3 +45,8 @@ Neon shapes - https://assetstore.unity.com/packages/2d/textures-materials/neon-s
 Mobile ready bloom - https://assetstore.unity.com/packages/2d/textures-materials/mobile-ready-bloom-asset-58230
 GateAccessMachine - https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-access-machine-162924
 Ceiling texture - https://free3d.com/3d-model/living-room-3728.html
+
+
+CMPM121HW2 Update
+Added Lighting
+Added Day/Night cycle
